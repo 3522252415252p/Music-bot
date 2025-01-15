@@ -18,7 +18,7 @@ Open the configuration file located in the main folder `config.js`.
 const process = require('process');
 module.exports = {
     app: {
-        token: process.env.DISCORD_TOKEN || 'xxx',
+        token: process.env.DISCORD_TOKEN || 'MTMyOTA0ODA1MTMxODI1OTc1NA.Gag1Wb.aH_Pr2jRkdqf3PUFHJUHQh-FlYqvHRp6nsnICQ',
         playing: 'by the Community ❤️',
         global: true,
         guild: process.env.GUILD_ID || 'xxx',
